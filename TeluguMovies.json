@@ -15,22 +15,22 @@
             {
                 "name": "Anjini Dhawan",
                 "role": "as Bindiya Singh (Binny)",
-                "image": "path_to_image2.jpg"
+                "image": "img/poster/poster1.jpgg"
             },
             {
                 "name": "Charu Shankar",
                 "role": "Actor",
-                "image": "path_to_image3.jpg"
+                "image": "img/poster/poster3.jpg"
             },
             {
                 "name": "Rajesh Kumar",
                 "role": "as Father of Binny",
-                "image": "path_to_image4.jpg"
+                "image": "img/poster/poster4.jpg"
             },
             {
                 "name": "Himani Shivpuri",
                 "role": "as Grandmother of Binny",
-                "image": "path_to_image5.jpg"
+                "image": "img/poster/poster6.jpg"
             }
         ],
         "crew": [
