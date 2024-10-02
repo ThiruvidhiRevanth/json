@@ -5,7 +5,7 @@
         "rating": "93%",
         "votes": 928,
         "poster": "img/poster/poster1.jpg",
-       
+        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
         "cast": [
             {
                 "name": "Pankaj Kapur",
@@ -67,45 +67,334 @@
         ]
     },
     {
-        "title": "Another Movie",
-        "genre": "Action",
-        "rating": "85%",
-        "votes": 1200,
-        "poster": "img/poster/poster2.jpg"
-    },
-    {
-        "title": "Another Movie",
-        "genre": "Action",
-        "rating": "85%",
-        "votes": 1200,
-        "poster": "img/poster/poster2.jpg"
-    },
-    {
-        "title": "Another Movie",
-        "genre": "Action",
-        "rating": "85%",
-        "votes": 1200,
-        "poster": "img/poster/poster2.jpg"
-    },
-    {
-        "title": "Another Movie",
-        "genre": "Action",
-        "rating": "85%",
-        "votes": 1200,
-        "poster": "img/poster/poster2.jpg"
-    },
-    {
-        "title": "Another Movie",
-        "genre": "Action",
-        "rating": "85%",
-        "votes": 1200,
-        "poster": "img/poster/poster2.jpg"
-    },
-    {
-        "title": "Another Movie",
-        "genre": "Action",
-        "rating": "85%",
-        "votes": 1200,
-        "poster": "img/poster/poster2.jpg"
+        "title": "Theerppu",
+        "genre": "Drama/Thriller",
+        "rating": "93%",
+        "votes": 928,
+        "poster": "img/poster/poster1.jpg",
+        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
+        "cast": [
+            {
+                "name": "Pankaj Kapur",
+                "role": "as Grandfather of Binny",
+                "image": "path_to_image1.jpg"
+            },
+            {
+                "name": "Anjini Dhawan",
+                "role": "as Bindiya Singh (Binny)",
+                "image": "path_to_image2.jpg"
+            },
+            {
+                "name": "Charu Shankar",
+                "role": "Actor",
+                "image": "path_to_image3.jpg"
+            },
+            {
+                "name": "Rajesh Kumar",
+                "role": "as Father of Binny",
+                "image": "path_to_image4.jpg"
+            },
+            {
+                "name": "Himani Shivpuri",
+                "role": "as Grandmother of Binny",
+                "image": "path_to_image5.jpg"
+            }
+        ],
+        "crew": [
+            {
+                "name": "Sanjay Tripathi",
+                "role": "Director, Writer, Screenplay",
+                "image": "path_to_image6.jpg"
+            },
+            {
+                "name": "Mahaveer S. Jain",
+                "role": "Producer",
+                "image": "path_to_image7.jpg"
+            },
+            {
+                "name": "Ektaa R Kapoor",
+                "role": "Producer",
+                "image": "path_to_image8.jpg"
+            },
+            {
+                "name": "Mrighdeep Lamba",
+                "role": "Producer",
+                "image": "path_to_image9.jpg"
+            },
+            {
+                "name": "Shashank Khaitan",
+                "role": "Producer",
+                "image": "path_to_image10.jpg"
+            },
+            {
+                "name": "Lalit Pandit",
+                "role": "Musician",
+                "image": "path_to_image11.jpg"
+            }
+        ]
+    },{
+        "title": "Theerppu",
+        "genre": "Drama/Thriller",
+        "rating": "93%",
+        "votes": 928,
+        "poster": "img/poster/poster1.jpg",
+        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
+        "cast": [
+            {
+                "name": "Pankaj Kapur",
+                "role": "as Grandfather of Binny",
+                "image": "path_to_image1.jpg"
+            },
+            {
+                "name": "Anjini Dhawan",
+                "role": "as Bindiya Singh (Binny)",
+                "image": "path_to_image2.jpg"
+            },
+            {
+                "name": "Charu Shankar",
+                "role": "Actor",
+                "image": "path_to_image3.jpg"
+            },
+            {
+                "name": "Rajesh Kumar",
+                "role": "as Father of Binny",
+                "image": "path_to_image4.jpg"
+            },
+            {
+                "name": "Himani Shivpuri",
+                "role": "as Grandmother of Binny",
+                "image": "path_to_image5.jpg"
+            }
+        ],
+        "crew": [
+            {
+                "name": "Sanjay Tripathi",
+                "role": "Director, Writer, Screenplay",
+                "image": "path_to_image6.jpg"
+            },
+            {
+                "name": "Mahaveer S. Jain",
+                "role": "Producer",
+                "image": "path_to_image7.jpg"
+            },
+            {
+                "name": "Ektaa R Kapoor",
+                "role": "Producer",
+                "image": "path_to_image8.jpg"
+            },
+            {
+                "name": "Mrighdeep Lamba",
+                "role": "Producer",
+                "image": "path_to_image9.jpg"
+            },
+            {
+                "name": "Shashank Khaitan",
+                "role": "Producer",
+                "image": "path_to_image10.jpg"
+            },
+            {
+                "name": "Lalit Pandit",
+                "role": "Musician",
+                "image": "path_to_image11.jpg"
+            }
+        ]
+    },{
+        "title": "Theerppu",
+        "genre": "Drama/Thriller",
+        "rating": "93%",
+        "votes": 928,
+        "poster": "img/poster/poster1.jpg",
+        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
+        "cast": [
+            {
+                "name": "Pankaj Kapur",
+                "role": "as Grandfather of Binny",
+                "image": "path_to_image1.jpg"
+            },
+            {
+                "name": "Anjini Dhawan",
+                "role": "as Bindiya Singh (Binny)",
+                "image": "path_to_image2.jpg"
+            },
+            {
+                "name": "Charu Shankar",
+                "role": "Actor",
+                "image": "path_to_image3.jpg"
+            },
+            {
+                "name": "Rajesh Kumar",
+                "role": "as Father of Binny",
+                "image": "path_to_image4.jpg"
+            },
+            {
+                "name": "Himani Shivpuri",
+                "role": "as Grandmother of Binny",
+                "image": "path_to_image5.jpg"
+            }
+        ],
+        "crew": [
+            {
+                "name": "Sanjay Tripathi",
+                "role": "Director, Writer, Screenplay",
+                "image": "path_to_image6.jpg"
+            },
+            {
+                "name": "Mahaveer S. Jain",
+                "role": "Producer",
+                "image": "path_to_image7.jpg"
+            },
+            {
+                "name": "Ektaa R Kapoor",
+                "role": "Producer",
+                "image": "path_to_image8.jpg"
+            },
+            {
+                "name": "Mrighdeep Lamba",
+                "role": "Producer",
+                "image": "path_to_image9.jpg"
+            },
+            {
+                "name": "Shashank Khaitan",
+                "role": "Producer",
+                "image": "path_to_image10.jpg"
+            },
+            {
+                "name": "Lalit Pandit",
+                "role": "Musician",
+                "image": "path_to_image11.jpg"
+            }
+        ]
+    },{
+        "title": "Theerppu",
+        "genre": "Drama/Thriller",
+        "rating": "93%",
+        "votes": 928,
+        "poster": "img/poster/poster1.jpg",
+        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
+        "cast": [
+            {
+                "name": "Pankaj Kapur",
+                "role": "as Grandfather of Binny",
+                "image": "path_to_image1.jpg"
+            },
+            {
+                "name": "Anjini Dhawan",
+                "role": "as Bindiya Singh (Binny)",
+                "image": "path_to_image2.jpg"
+            },
+            {
+                "name": "Charu Shankar",
+                "role": "Actor",
+                "image": "path_to_image3.jpg"
+            },
+            {
+                "name": "Rajesh Kumar",
+                "role": "as Father of Binny",
+                "image": "path_to_image4.jpg"
+            },
+            {
+                "name": "Himani Shivpuri",
+                "role": "as Grandmother of Binny",
+                "image": "path_to_image5.jpg"
+            }
+        ],
+        "crew": [
+            {
+                "name": "Sanjay Tripathi",
+                "role": "Director, Writer, Screenplay",
+                "image": "path_to_image6.jpg"
+            },
+            {
+                "name": "Mahaveer S. Jain",
+                "role": "Producer",
+                "image": "path_to_image7.jpg"
+            },
+            {
+                "name": "Ektaa R Kapoor",
+                "role": "Producer",
+                "image": "path_to_image8.jpg"
+            },
+            {
+                "name": "Mrighdeep Lamba",
+                "role": "Producer",
+                "image": "path_to_image9.jpg"
+            },
+            {
+                "name": "Shashank Khaitan",
+                "role": "Producer",
+                "image": "path_to_image10.jpg"
+            },
+            {
+                "name": "Lalit Pandit",
+                "role": "Musician",
+                "image": "path_to_image11.jpg"
+            }
+        ]
+    },{
+        "title": "Theerppu",
+        "genre": "Drama/Thriller",
+        "rating": "93%",
+        "votes": 928,
+        "poster": "img/poster/poster1.jpg",
+        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
+        "cast": [
+            {
+                "name": "Pankaj Kapur",
+                "role": "as Grandfather of Binny",
+                "image": "path_to_image1.jpg"
+            },
+            {
+                "name": "Anjini Dhawan",
+                "role": "as Bindiya Singh (Binny)",
+                "image": "path_to_image2.jpg"
+            },
+            {
+                "name": "Charu Shankar",
+                "role": "Actor",
+                "image": "path_to_image3.jpg"
+            },
+            {
+                "name": "Rajesh Kumar",
+                "role": "as Father of Binny",
+                "image": "path_to_image4.jpg"
+            },
+            {
+                "name": "Himani Shivpuri",
+                "role": "as Grandmother of Binny",
+                "image": "path_to_image5.jpg"
+            }
+        ],
+        "crew": [
+            {
+                "name": "Sanjay Tripathi",
+                "role": "Director, Writer, Screenplay",
+                "image": "path_to_image6.jpg"
+            },
+            {
+                "name": "Mahaveer S. Jain",
+                "role": "Producer",
+                "image": "path_to_image7.jpg"
+            },
+            {
+                "name": "Ektaa R Kapoor",
+                "role": "Producer",
+                "image": "path_to_image8.jpg"
+            },
+            {
+                "name": "Mrighdeep Lamba",
+                "role": "Producer",
+                "image": "path_to_image9.jpg"
+            },
+            {
+                "name": "Shashank Khaitan",
+                "role": "Producer",
+                "image": "path_to_image10.jpg"
+            },
+            {
+                "name": "Lalit Pandit",
+                "role": "Musician",
+                "image": "path_to_image11.jpg"
+            }
+        ]
     }
 ]
