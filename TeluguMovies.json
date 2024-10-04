@@ -1,115 +1,64 @@
 [
     {
-        "title": "Theerppu",
-        "genre": "Drama/Thriller",
-        "rating": "93%",
-        "votes": 928,
-        "poster": "img/poster/poster1.jpg",
+        "title": "Devara - Part 1",
+        "genre": "Action/Drama/Thriller",
+        "rating": "8.2/10",
+        "votes": "282.7k",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/devara--part-1-et00310216-1712750637.jpg",
        
         "cast": [
             {
-                "name": "Pankaj Kapur",
-                "role": "as Grandfather of Binny",
-                "image": "img/poster/poster1.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-            {
-                "name": "Charu Shankar",
+                "name": "Jr NTR",
                 "role": "Actor",
-                "image": "img/poster/poster3.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jr-ntr-15411-19-09-2017-01-52-16.jpg"
+            },
+             {
+                "name": "Janhvi Kapoor",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/janhvi-kapoor-1087603-1667544242.jpg"
             },
             {
-                "name": "Rajesh Kumar",
-                "role": "as Father of Binny",
-                "image": "img/poster/poster4.jpg"
+                "name": "Saif Ali Khan",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/saif-ali-khan-1978-12-09-2017-04-45-17.jpg"
             },
             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
+                "name": "Meka Srikanth",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/meka-srikanth-1047571-24-10-2017-01-49-35.jpg"
             },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            }, {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
-            },
-             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "img/poster/poster9.jpg"
+            {
+                "name": "Prakash Raj",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/prakash-raj-1713-1653648505.jpg"
             }
+            
+             
         ],
         "crew": [
             {
-                "name": "Sanjay Tripathi",
-                "role": "Director, Writer, Screenplay",
-                "image": "img/poster/poster9.jpg"
+                "name": "Koratala Siva",
+                "role": "Director, Writer",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/koratala-siva-34612-19-09-2017-02-11-05.jpg"
             },
             {
-                "name": "Mahaveer S. Jain",
+                "name": "Nandamuri Kalyan Ram",
                 "role": "Producer",
-                "image": "img/poster/poster9.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/nandamuri-kalyan-ram-2877-1659164694.jpg"
             },
             {
-                "name": "Ektaa R Kapoor",
+                "name": "Sudhakar Mikkilineli",
                 "role": "Producer",
-                "image": "img/poster/poster9.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sudhakar-mikkilineni-2016475-1686560361.jpg"
             },
+            
             {
-                "name": "Mrighdeep Lamba",
-                "role": "Producer",
-                "image": "img/poster/poster9.jpg"
-            },
-            {
-                "name": "Shashank Khaitan",
-                "role": "Producer",
-                "image": "path_to_image10.jpg"
-            },
-            {
-                "name": "Lalit Pandit",
+                "name": "Anirudh",
                 "role": "Musician",
-                "image": "path_to_image11.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/anirudh-ravichander-34897-24-03-2017-13-54-49.jpg"
             }
         ],
-         "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd"
+         "des":"The film`s backdrop is centered around the far and forgotten coastal lands of India.The people,or rather the villains,in the film neither fear death nor god and there is no sense of humanity among them. Devara changes this scenario in his inimitable style"
     },
     {
         "title": "Theerppu",
