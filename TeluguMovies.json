@@ -163,7 +163,7 @@
             {
                 "name": "Devadarshini",
                 "role": "Actor",
-                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/devadarshini-24847-24-03-2017-17-46-58.jpgg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/devadarshini-24847-24-03-2017-17-46-58.jpg"
             }
             
              
@@ -199,268 +199,136 @@
         "xd":"2D"
     },
     {
-        "title": "Theerppu",
-        "genre": "Drama/Thriller",
-        "rating": "93%",
-        "votes": 928,
-        "poster": "img/poster/poster1.jpg",
-        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
+        "title": "Ramnagar Bunny",
+        "genre": "Romantic/Drama/Thriller",
+        "rating": "8.2/10",
+        "votes": "1.7k",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/ramnagar-bunny-et00413951-1727678416.jpg",
+       
         "cast": [
             {
-                "name": "Pankaj Kapur",
-                "role": "as Grandfather of Binny",
-                "image": "path_to_image1.jpg"
-            },
-            {
-                "name": "Anjini Dhawan",
-                "role": "as Bindiya Singh (Binny)",
-                "image": "path_to_image2.jpg"
-            },
-            {
-                "name": "Charu Shankar",
+                "name": "Podakandla Chandrahass",
                 "role": "Actor",
-                "image": "path_to_image3.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/podakandla-chandrahass-2040856-1727696498.jpg"
+            },
+             {
+                "name": "Vismaya Sri",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vismaya-sri-2014899-1689585396.jpg"
             },
             {
-                "name": "Rajesh Kumar",
-                "role": "as Father of Binny",
-                "image": "path_to_image4.jpg"
+                "name": "Richa Joshi",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/richa-joshi-2023298-1714629786.jpg"
             },
             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "path_to_image5.jpg"
+                "name": "Ambika",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ambika-vani-2027584-1682661645.jpg"
+            },
+            {
+                "name": "Muralidhar",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/muralidhar-goud-2027403-1681879770.jpg"
             }
+            
+             
         ],
         "crew": [
             {
-                "name": "Sanjay Tripathi",
-                "role": "Director, Writer, Screenplay",
-                "image": "path_to_image6.jpg"
+                "name": "Srinivas Mahath",
+                "role": "Director, Writer",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/srinivas-mahath-2040827-1727584062.jpg"
             },
             {
-                "name": "Mahaveer S. Jain",
+                "name": "Prabhakar Podakandla",
                 "role": "Producer",
-                "image": "path_to_image7.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/prabhakar-podakandla-1086194-27-10-2017-07-20-46.jpg"
             },
             {
-                "name": "Ektaa R Kapoor",
+                "name": "Malaayaja Prabhakhar",
                 "role": "Producer",
-                "image": "path_to_image8.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/malayaja-prabhakhar-2040826-1727584012.jpg"
             },
+            
             {
-                "name": "Mrighdeep Lamba",
-                "role": "Producer",
-                "image": "path_to_image9.jpg"
-            },
-            {
-                "name": "Shashank Khaitan",
-                "role": "Producer",
-                "image": "path_to_image10.jpg"
-            },
-            {
-                "name": "Lalit Pandit",
+                "name": "Ashwin Hemanth",
                 "role": "Musician",
-                "image": "path_to_image11.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ashwin-hemanth-2015134-1713957952.jpg"
             }
-        ]
-    },{
-        "title": "Theerppu",
-        "genre": "Drama/Thriller",
-        "rating": "93%",
-        "votes": 928,
-        "poster": "img/poster/poster1.jpg",
-        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
-        "cast": [
+        ],
+         "des":"Reckless 21-year-old Bunny squanders his father's savings while juggling relationships. After a wake-up call, he faces a tough choice between love and responsibility in this light-hearted, emotional journey.",
+         "time":"2h 28m",
+        "lang":"Telugu",
+        "date":"4 Oct, 2024",
+        "res":"UA",
+        "xd":"2D"
+    },
+    {
+        "title": "Kali(2024)",
+        "genre": "Suspense/Thriller",
+        "rating": "9.1/10",
+        "votes": "1.3K",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kali-et00412741-1726823409.jpg",
+              "cast": [
             {
-                "name": "Pankaj Kapur",
-                "role": "as Grandfather of Binny",
-                "image": "path_to_image1.jpg"
-            },
-            {
-                "name": "Anjini Dhawan",
-                "role": "as Bindiya Singh (Binny)",
-                "image": "path_to_image2.jpg"
-            },
-            {
-                "name": "Charu Shankar",
+                "name": "Prince Cecil",
                 "role": "Actor",
-                "image": "path_to_image3.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/prince-cecil-1729-08-09-2021-01-55-36.jpg"
+            },
+             {
+                "name": "Vismaya Sri",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vismaya-sri-2014899-1689585396.jpg"
             },
             {
-                "name": "Rajesh Kumar",
-                "role": "as Father of Binny",
-                "image": "path_to_image4.jpg"
+                "name": "Naresh Agastya",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/naresh-agastya-2005776-27-12-2019-01-14-46.jpg"
             },
             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "path_to_image5.jpg"
+                "name": "Neha Krishnan",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/neha-krishnan-2040568-1726814741.jpg"
+            },
+            {
+                "name": "Gundu Sudarshan",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/gundu-sudarshan-9357-1716200294.jpg"
             }
+            
+             
         ],
         "crew": [
             {
-                "name": "Sanjay Tripathi",
-                "role": "Director, Writer, Screenplay",
-                "image": "path_to_image6.jpg"
+                "name": "Siva Sashu",
+                "role": "Director",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/siva-sashu-2040569-1727070710.jpg"
             },
             {
-                "name": "Mahaveer S. Jain",
+                "name": "T.Leela Gowtham",
                 "role": "Producer",
-                "image": "path_to_image7.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/t-leela-gowtham-varma-2040618-1727071065.jpg"
             },
             {
-                "name": "Ektaa R Kapoor",
-                "role": "Producer",
-                "image": "path_to_image8.jpg"
+                "name": "Ramana Jagarlamudi",
+                "role": "Cinematographer",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ramana-jagarlamudi-2040616-1727070897.jpg"
             },
+            
             {
-                "name": "Mrighdeep Lamba",
-                "role": "Producer",
-                "image": "path_to_image9.jpg"
-            },
-            {
-                "name": "Shashank Khaitan",
-                "role": "Producer",
-                "image": "path_to_image10.jpg"
-            },
-            {
-                "name": "Lalit Pandit",
+                "name": "Jeevan Babu",
                 "role": "Musician",
-                "image": "path_to_image11.jpg"
-            }
-        ]
-    },{
-        "title": "Theerppu",
-        "genre": "Drama/Thriller",
-        "rating": "93%",
-        "votes": 928,
-        "poster": "img/poster/poster1.jpg",
-        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
-        "cast": [
-            {
-                "name": "Pankaj Kapur",
-                "role": "as Grandfather of Binny",
-                "image": "path_to_image1.jpg"
-            },
-            {
-                "name": "Anjini Dhawan",
-                "role": "as Bindiya Singh (Binny)",
-                "image": "path_to_image2.jpg"
-            },
-            {
-                "name": "Charu Shankar",
-                "role": "Actor",
-                "image": "path_to_image3.jpg"
-            },
-            {
-                "name": "Rajesh Kumar",
-                "role": "as Father of Binny",
-                "image": "path_to_image4.jpg"
-            },
-            {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "path_to_image5.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jeevan-babu-1266942-01-04-2019-01-54-26.jpg"
             }
         ],
-        "crew": [
-            {
-                "name": "Sanjay Tripathi",
-                "role": "Director, Writer, Screenplay",
-                "image": "path_to_image6.jpg"
-            },
-            {
-                "name": "Mahaveer S. Jain",
-                "role": "Producer",
-                "image": "path_to_image7.jpg"
-            },
-            {
-                "name": "Ektaa R Kapoor",
-                "role": "Producer",
-                "image": "path_to_image8.jpg"
-            },
-            {
-                "name": "Mrighdeep Lamba",
-                "role": "Producer",
-                "image": "path_to_image9.jpg"
-            },
-            {
-                "name": "Shashank Khaitan",
-                "role": "Producer",
-                "image": "path_to_image10.jpg"
-            },
-            {
-                "name": "Lalit Pandit",
-                "role": "Musician",
-                "image": "path_to_image11.jpg"
-            }
-        ]
-    },{
-        "title": "Theerppu",
-        "genre": "Drama/Thriller",
-        "rating": "93%",
-        "votes": 928,
-        "poster": "img/poster/poster1.jpg",
-        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
-        "cast": [
-            {
-                "name": "Pankaj Kapur",
-                "role": "as Grandfather of Binny",
-                "image": "path_to_image1.jpg"
-            },
-            {
-                "name": "Anjini Dhawan",
-                "role": "as Bindiya Singh (Binny)",
-                "image": "path_to_image2.jpg"
-            },
-            {
-                "name": "Charu Shankar",
-                "role": "Actor",
-                "image": "path_to_image3.jpg"
-            },
-            {
-                "name": "Rajesh Kumar",
-                "role": "as Father of Binny",
-                "image": "path_to_image4.jpg"
-            },
-            {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "path_to_image5.jpg"
-            }
-        ],
-        "crew": [
-            {
-                "name": "Sanjay Tripathi",
-                "role": "Director, Writer, Screenplay",
-                "image": "path_to_image6.jpg"
-            },
-            {
-                "name": "Mahaveer S. Jain",
-                "role": "Producer",
-                "image": "path_to_image7.jpg"
-            },
-            {
-                "name": "Ektaa R Kapoor",
-                "role": "Producer",
-                "image": "path_to_image8.jpg"
-            },
-            {
-                "name": "Mrighdeep Lamba",
-                "role": "Producer",
-                "image": "path_to_image9.jpg"
-            },
-            {
-                "name": "Shashank Khaitan",
-                "role": "Producer",
-                "image": "path_to_image10.jpg"
-            },
-            {
-                "name": "Lalit Pandit",
-                "role": "Musician",
-                "image": "path_to_image11.jpg"
-            }
-        ]
+         "des":"Kali is a Telugu movie starring Prince Cecil, Naresh Agastya and Neha Krishnan in prominent roles. It is directed by Siva Sashu.",
+         "time":"1h 31m",
+        "lang":"Telugu",
+        "date":"4 Oct, 2024",
+        "res":"U",
+        "xd":"2D"
+    },
+       
     }
 ]
