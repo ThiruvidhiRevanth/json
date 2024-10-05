@@ -65,73 +65,140 @@
         "res":"UA",
         "xd":"2D,4DX,ICE,IMAX 2D"
     },
+    
     {
-        "title": "Theerppu",
-        "genre": "Drama/Thriller",
-        "rating": "93%",
-        "votes": 928,
-        "poster": "img/poster/poster1.jpg",
-        "des":"kjsdkfhkhdskfhksdhfhksdhfkhksahiurywsxmcnzbnsd",
+        "title": "SWAG",
+        "genre": "Comdey/Thriller",
+        "rating": "8.8/10",
+        "votes": "7.7k",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/swag-et00401912-1727774376.jpg",
+       
         "cast": [
             {
-                "name": "Pankaj Kapur",
-                "role": "as Grandfather of Binny",
-                "image": "path_to_image1.jpg"
-            },
-            {
-                "name": "Anjini Dhawan",
-                "role": "as Bindiya Singh (Binny)",
-                "image": "path_to_image2.jpg"
-            },
-            {
-                "name": "Charu Shankar",
+                "name": "Sree Vishnu",
                 "role": "Actor",
-                "image": "path_to_image3.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sree-vishnu-40577-15-03-2017-04-59-34.jpg"
+            },
+             {
+                "name": "Ritu Varma",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ritu-varma-38541-07-05-2017-15-11-31.jpg"
             },
             {
-                "name": "Rajesh Kumar",
-                "role": "as Father of Binny",
-                "image": "path_to_image4.jpg"
+                "name": "Meera Jasmine",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/meera-jasmine-1431-1693207421.jpg"
             },
             {
-                "name": "Himani Shivpuri",
-                "role": "as Grandmother of Binny",
-                "image": "path_to_image5.jpg"
+                "name": "Ravi Babu",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ravi-babu-12235-17-08-2021-03-41-33.jpg"
+            },
+            {
+                "name": "Sunil",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sunil-2292-24-03-2017-18-02-16.jpg"
             }
+            
+             
         ],
         "crew": [
             {
-                "name": "Sanjay Tripathi",
-                "role": "Director, Writer, Screenplay",
-                "image": "path_to_image6.jpg"
+                "name": "Hasith Goli",
+                "role": "Director, Writer",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/hasith-goli-2013421-17-08-2021-01-45-20.jpg"
             },
             {
-                "name": "Mahaveer S. Jain",
+                "name": "Nandamuri Kalyan Ram",
                 "role": "Producer",
-                "image": "path_to_image7.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/tg-vishwa-prasad-2007132-1720595051.jpg"
             },
             {
-                "name": "Ektaa R Kapoor",
-                "role": "Producer",
-                "image": "path_to_image8.jpg"
+                "name": "Vedharaman Sankaran",
+                "role": "Cinematographer",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vedharaman-sankaran-2033351-1704707878.jpg"
             },
+            
             {
-                "name": "Mrighdeep Lamba",
-                "role": "Producer",
-                "image": "path_to_image9.jpg"
-            },
-            {
-                "name": "Shashank Khaitan",
-                "role": "Producer",
-                "image": "path_to_image10.jpg"
-            },
-            {
-                "name": "Lalit Pandit",
+                "name": "Vivek Sagar",
                 "role": "Musician",
-                "image": "path_to_image11.jpg"
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vivek-sagar-1072511-17-08-2021-03-44-52.jpg"
             }
-        ]
-    },{
+        ],
+         "des":"SWAG is a Telugu movie starring Sree Vishnu, Ritu Varma, Meera Jasmine and Daksha Nagarkar in prominent roles. It is written and directed by Hasith Goli. ",
+         "time":"2h 40m",
+        "lang":"Telugu",
+        "date":"4 oct, 2024",
+        "res":"UA",
+        "xd":"2D"
+    },
+    {
+        "title": "Sathyam Sundaram",
+        "genre": "Comdey/Drama",
+        "rating": "8.8/10",
+        "votes": "14.1k",
+        "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sathyam-sundaram-et00413111-1727086916.jpg",
+       
+        "cast": [
+            {
+                "name": "Arvid Swamy",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/arvind-swamy-34572-17-12-2018-02-54-45.jpg"
+            },
+             {
+                "name": "Karthi",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/karthik-sivakumar-16841-24-03-2017-17-34-20.jpg"
+            },
+            {
+                "name": "Sri Divya",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sri-divya-32730-24-03-2017-17-32-33.jpg"
+            },
+            {
+                "name": "Swathi Konde",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/swathi-konde-1093095-30-05-2018-02-22-00.jpg"
+            },
+            {
+                "name": "Devadarshini",
+                "role": "Actor",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/devadarshini-24847-24-03-2017-17-46-58.jpgg"
+            }
+            
+             
+        ],
+        "crew": [
+            {
+                "name": "C.Prem Kumar",
+                "role": "Director",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/c.-premkumar-iein083282-04-05-2017-15-10-41.jpg"
+            },
+            {
+                "name": "Jyotika Sadanah",
+                "role": "Producer",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jyothika-sudhir-2887-1710135712.jpg"
+            },
+            {
+                "name": "Suriya Sivakumar",
+                "role": "Producer",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/suriya-sivakumar-3823-1689655189.jpg"
+            },
+            
+            {
+                "name": "Govind Vasantha",
+                "role": "Musician",
+                "image": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/govind-vasantha-1267100-05-04-2019-11-16-55.jpg"
+            }
+        ],
+         "des":"Sathyam Sundaram follows the reunion of two cousins after many years apart. As they come from vastly different backgrounds and lifestyles, their meeting sparks a clash of worlds, driving the central conflict of the story. ",
+         "time":"2h 57m",
+        "lang":"Telugu",
+        "date":"27 sep, 2024",
+        "res":"U",
+        "xd":"2D"
+    },
+    {
         "title": "Theerppu",
         "genre": "Drama/Thriller",
         "rating": "93%",
